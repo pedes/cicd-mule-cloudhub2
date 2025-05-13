@@ -57,7 +57,7 @@
 						<replicas>1</replicas>
 						<vCores>0.1</vCores>
 						<properties>
-							<custom>this demo value is visible in runtime manager</custom>
+							<custom>this demo value is visible in runtime manager UPDATED VALUE </custom>
 						</properties>
 						<secureProperties>
 							<message>${message}</message>
